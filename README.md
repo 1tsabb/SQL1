@@ -1,2 +1,2 @@
-# sql1
+# SQL1
 SQL Portfolio
